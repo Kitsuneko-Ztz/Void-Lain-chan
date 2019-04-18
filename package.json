@@ -1,0 +1,22 @@
+{
+  "name": "void-lain-chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kitsuneko-Ztz/Void-Lain-chan.git"
+  },
+  "author": "Ender Lain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kitsuneko-Ztz/Void-Lain-chan/issues"
+  },
+  "homepage": "https://github.com/Kitsuneko-Ztz/Void-Lain-chan#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
